@@ -3,7 +3,7 @@
 A modular, recruiter-grade Amazon clone built with Next.js 14, Tailwind CSS, Clerk Auth, Firebase backend, and Stripe checkout. Designed for dramatic UI, bulletproof mobile/desktop layout, and strategic component reuse.
 
 ## 🚀 Live Demo
-[View on Vercel](https://your-vercel-domain.vercel.app)  
+[View on Vercel]https://amazon-clone-eight-smoky.vercel.app/
 *(Replace with your actual domain once deployed)*
 
 ---
@@ -13,14 +13,13 @@ A modular, recruiter-grade Amazon clone built with Next.js 14, Tailwind CSS, Cle
 | Frontend        | Backend & Auth     | Payments       | Styling & UX     |
 |----------------|--------------------|----------------|------------------|
 | Next.js 14 App Router | Firebase Firestore | Stripe Checkout | Tailwind CSS     |
-| React Server Components | Clerk Authentication | Stripe Webhooks | Responsive Layout |
-| Zustand State Management | NextAuth (optional) | Modular Cart Logic | Animation Polish |
+| React Server Components | Stripe Webhooks | Responsive Layout |
+| Zustand State Management | NextAuth | Modular Cart Logic | Animation Polish |
 
 ---
 
 ## 📦 Features
 
-- 🔐 **Clerk Auth** – Google sign-in, protected routes, and fallback logic
 - 🛍️ **Product Pages** – Dynamic routing with image preview and price formatting
 - 🛒 **Cart System** – Add/remove items, billing summary, and Stripe checkout
 - ❤️ **Favorites** – Save products with local state and user sync
