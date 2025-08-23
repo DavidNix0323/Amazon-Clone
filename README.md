@@ -3,8 +3,8 @@
 A modular, recruiter-grade Amazon clone built with Next.js 14, Tailwind CSS, Clerk Auth, Firebase backend, and Stripe checkout. Designed for dramatic UI, bulletproof mobile/desktop layout, and strategic component reuse.
 
 ## 🚀 Live Demo
-[View on Vercel]https://amazon-clone-eight-smoky.vercel.app/
-*(Replace with your actual domain once deployed)*
+[View on Vercel] https://amazon-clone-eight-smoky.vercel.app/
+
 
 ---
 
