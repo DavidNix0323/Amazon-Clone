@@ -12,9 +12,8 @@ A modular, recruiter-grade Amazon clone built with Next.js 14, Tailwind CSS, Cle
 
 | Frontend        | Backend & Auth     | Payments       | Styling & UX     |
 |----------------|--------------------|----------------|------------------|
-| Next.js 14 App Router | Firebase Firestore | Stripe Checkout | Tailwind CSS     |
-| React Server Components | Stripe Webhooks | Responsive Layout |
-| Zustand State Management | NextAuth | Modular Cart Logic | Animation Polish |
+| Next.js 14 App Router | Firebase Firestore | Stripe Checkout | Tailwind CSS |
+| React Server Components | Stripe Webhooks | Responsive Layout | Zustand State Management | NextAuth | Modular Cart Logic | Animation Polish |
 
 ---
 
